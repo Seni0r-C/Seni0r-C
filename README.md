@@ -1,16 +1,44 @@
-## Hi there 👋
+```bash
+   __|       / _/                 __|    
+ \__ \   -_)  ' \    _ \   _|    (       
+ ____/ \___| _| _| \___/ _|     \___| _) 
+                                         
+```
 
-<!--
-**Seni0r-C/Seni0r-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Desarrollador FullStack | Apasionado por la Tecnología | Diseñador UX**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Sobre mí
+💻 Desarrollador con experiencia en tecnologías como React, Node.js y Python.  
+📚 Siempre aprendiendo algo nuevo en el mundo del desarrollo.  
+🌍 Amante del código abierto y la comunidad tech.  
+🎨 Diseñador de interfaces atractivas y funcionales.  
+🤖 En busca de la AGI y la automatización de procesos.
+
+---
+
+## 🚀 Tecnologías y Herramientas
+
+🔹 **Frontend:** React, Astro, Flutter  
+🔹 **Backend:** Node.js, Flask, Express  
+🔹 **Base de Datos:** MariaDB, MySQL  
+🔹 **Diseño:** Figma, TailwindCSS  
+
+---
+
+## 📊 Mis Estadísticas en GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=seni0r-C&show_icons=true&theme=radical)
+
+![Languajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=seni0r-C&layout=compact&theme=radical)
+
+---
+
+## 📫 Contacto
+📧 **Correo:** carlosarteaga1999@outlook.es  
+💼 **LinkedIn:** [Carlos Arteaga](https://linkedin.com/in/carlos-arte)  
+🐙 **GitHub:** [Señor C.](https://github.com/seni0r-C)  
+
+---
+
+⚡ _"Si puedes imaginarlo, puedes programarlo" - Alejandro Toboada (Programación ATS)_
